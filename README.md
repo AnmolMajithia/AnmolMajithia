@@ -14,7 +14,6 @@
 
 ### Connect with me:
 
-<img src=""/>
 [<img align="left" alt="Anmol Majithia | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="Anmol Majithia | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Anmol Majithia | YouTube" width="22px" src="https://img.icons8.com/color/48/000000/youtube-squared.png" />][youtube]
@@ -24,7 +23,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>][]
+<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 
 <br />
 <br />
