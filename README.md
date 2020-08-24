@@ -40,9 +40,15 @@
 
 ---
 
+<summary>:zap: Github Pinned Repos</summary>
+
+[![HomeAutomationAndroid Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=HomeAutomationAndroid)](https://github.com/AnmolMajithia/HomeAutomationAndroid)
+
+---
+
 <summary>:zap: Github Stats</summary>
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AnmolMajithia&show_icons=true&hide_border=true" />
+<img align="left" alt="Anmol Majithia's Github Stats" src="https://github-readme-stats.anmolmajithia.vercel.app/api?username=AnmolMajithia&show_icons=true&hide_border=true&count_private=true&include_all_commits=false" />
 
 [twitter]: https://twitter.com/Anmol_Majithia
 [youtube]: https://www.youtube.com/channel/UCUk4dH9pDV5rqKuDiCs3Z0A
