@@ -14,39 +14,39 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Anmol Majithia | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="Anmol Majithia | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Anmol Majithia | YouTube" width="22px" src="https://img.icons8.com/color/48/000000/youtube-squared.png" />][youtube]
-[<img align="left" alt="Anmol Majithia | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="Anmol Majithia | Instagram" width="26px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="Anmol Majithia | LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Anmol Majithia | YouTube" width="26px" src="https://img.icons8.com/color/48/000000/youtube-squared.png" />][youtube]
+[<img align="left" alt="Anmol Majithia | Twitter" width="26px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png"/>
-<img align="left" alt="Android" width="26px" src="https://img.icons8.com/color/48/000000/android-os.png"/>
-<img align="left" alt="Kotlin" width="26px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-<img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png"/>
-<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png"/>
-<img align="left" alt="Kibana" width="26px" src="https://img.icons8.com/color/48/000000/kibana.png"/>
-<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img align="left" alt="Arduino" width="26px" src="https://img.icons8.com/color/48/000000/arduino.png"/>
-<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img align="left" alt="Github" width="26px" src="https://img.icons8.com/color/48/000000/github--v1.png"/>
-<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img align="left" alt="BootStrap" width="26px"  src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img align="left" alt="Drupal" width="26px" src="https://img.icons8.com/color/48/000000/drupal.png"/>
-<img align="left" alt="Go" width="26px" src="https://img.icons8.com/color/48/000000/golang.png"/>
-<img align="left" alt="Raspberry Pi" width="26px" src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>
-<img align="left" alt="Spring Boot" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-<img align="left" alt="VSCode" width="26px"  src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
-<img align="left" alt="Atom" width="26px" src="https://img.icons8.com/color/48/000000/atom-editor.png"/>
-<img align="left" alt="Idea" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
-<img align="left" alt="PyCharm" width="26px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+<img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python.png"/>
+<img align="left" alt="Android" width="30px" src="https://img.icons8.com/color/48/000000/android-os.png"/>
+<img align="left" alt="Kotlin" width="30px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+<img align="left" alt="Flutter" width="30px" src="https://img.icons8.com/color/48/000000/flutter.png"/>
+<img align="left" alt="Docker" width="30px" src="https://img.icons8.com/color/48/000000/docker.png"/>
+<img align="left" alt="Kibana" width="30px" src="https://img.icons8.com/color/48/000000/kibana.png"/>
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img align="left" alt="C++" width="30px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img align="left" alt="Arduino" width="30px" src="https://img.icons8.com/color/48/000000/arduino.png"/>
+<img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png"/>
+<img align="left" alt="Github" width="30px" src="https://img.icons8.com/color/48/000000/github--v1.png"/>
+<img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img align="left" alt="CSS3" width="30px" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img align="left" alt="BootStrap" width="30px"  src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img align="left" alt="Drupal" width="30px" src="https://img.icons8.com/color/48/000000/drupal.png"/>
+<img align="left" alt="Go" width="30px" src="https://img.icons8.com/color/48/000000/golang.png"/>
+<img align="left" alt="Raspberry Pi" width="30px" src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>
+<img align="left" alt="Spring Boot" width="30px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+<img align="left" alt="VSCode" width="30px"  src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
+<img align="left" alt="Atom" width="30px" src="https://img.icons8.com/color/48/000000/atom-editor.png"/>
+<img align="left" alt="Idea" width="30px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+<img align="left" alt="PyCharm" width="30px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
 
 <br />
 <br />
