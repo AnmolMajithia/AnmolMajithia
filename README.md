@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-<img src="https://spotify-now-playing-git-master.anmolmajithia.vercel.app/api/spotify-playing" alt="AnmolMajithia's Spotify Playing" width="350" />
+[![Spotify](https://spotify-now-playing.anmolmajithia.vercel.app/api/spotify)](https://open.spotify.com/user/anmol_majithia)
 
 ### Connect with me:
 
