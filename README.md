@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+<img src="https://spotify-now-playing-git-master.anmolmajithia.vercel.app/api/spotify-playing" alt="AnmolMajithia's Spotify Playing" width="350" />
 
 ### Connect with me:
 
@@ -69,8 +69,8 @@
 [instagram]: https://instagram.com/aaaanmol
 [linkedin]: https://www.linkedin.com/in/anmol-majithia/
 
+<br />
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#21002](https://github.com//atom/atom/issues/21002) in [atom/atom](https://github.com//atom/atom)
-<!--END_SECTION:activity-->
