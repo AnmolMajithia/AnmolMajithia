@@ -68,3 +68,7 @@
 [youtube]: https://www.youtube.com/channel/UCUk4dH9pDV5rqKuDiCs3Z0A
 [instagram]: https://instagram.com/aaaanmol
 [linkedin]: https://www.linkedin.com/in/anmol-majithia/
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
