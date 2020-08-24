@@ -51,7 +51,7 @@
 <br />
 <br />
 
-### 📌 Github Pinned Repos
+### Github Pinned Repos 📌
 
 [![HomeAutomationAndroid Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=HomeAutomationAndroid)](https://github.com/AnmolMajithia/HomeAutomationAndroid)
 [![HWRecognizer Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=Handwriting-Recognition)](https://github.com/AnmolMajithia/Handwriting-Recognition)
@@ -60,7 +60,7 @@
 [![JDBC Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=CollegeManagementSystem-JDBC)](https://github.com/AnmolMajithia/CollegeManagementSystem-JDBC)
 [![MLUdemy Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=Machine-Learning-Udemy)](https://github.com/AnmolMajithia/Machine-Learning-Udemy)
 
-### 🔭 Github Stats
+### Github Stats 🔭
 
 <img align="left" alt="Anmol Majithia's Github Stats" src="https://github-readme-stats.anmolmajithia.vercel.app/api?username=AnmolMajithia&show_icons=true&hide_border=true&count_private=true&include_all_commits=false" />
 
