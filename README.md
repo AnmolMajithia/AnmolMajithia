@@ -38,15 +38,16 @@
 <br />
 <br />
 
----
-
-<summary>:zap: Github Pinned Repos</summary>
+### 📌 Github Pinned Repos
 
 [![HomeAutomationAndroid Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=HomeAutomationAndroid)](https://github.com/AnmolMajithia/HomeAutomationAndroid)
+[![Coursera Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=Coursera-AlgorithmicToolbox-Java)](https://github.com/AnmolMajithia/Coursera-AlgorithmicToolbox-Java)
+[![FaceRecognition Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=FaceRecognition-In-Cpp)](https://github.com/AnmolMajithia/FaceRecognition-In-Cpp)
+[![CAnimation Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=C-Animations)](https://github.com/AnmolMajithia/C-Animations)
+[![MLUdemy Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=Machine-Learning-Udemy)](https://github.com/AnmolMajithia/Machine-Learning-Udemy)
+[![HWRecognizer Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=Handwriting-Recognition)](https://github.com/AnmolMajithia/Handwriting-Recognition)
 
----
-
-<summary>:zap: Github Stats</summary>
+### 🔭 Github Stats
 
 <img align="left" alt="Anmol Majithia's Github Stats" src="https://github-readme-stats.anmolmajithia.vercel.app/api?username=AnmolMajithia&show_icons=true&hide_border=true&count_private=true&include_all_commits=false" />
 
