@@ -74,5 +74,5 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#21002](https://github.com//atom/atom/issues/21002) in [atom/atom](https://github.com//atom/atom)
+1. ❗️ Opened issue [#21002](https://github.com/atom/atom/issues/21002) in [atom/atom](https://github.com/atom/atom)
 <!--END_SECTION:activity-->
