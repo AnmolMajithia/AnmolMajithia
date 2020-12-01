@@ -57,8 +57,6 @@
 [![HWRecognizer Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=Handwriting-Recognition)](https://github.com/AnmolMajithia/Handwriting-Recognition)
 [![NASA SpaceApps 2020 Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=LegendBois&repo=NASA-Space-Apps-Spot-The-Fire-v3.0)](https://github.com/LegendBois/NASA-Space-Apps-Spot-The-Fire-v3.0)
 [![FaceRecognition Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=FaceRecognition-In-Cpp)](https://github.com/AnmolMajithia/FaceRecognition-In-Cpp)
-[![JDBC Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=CollegeManagementSystem-JDBC)](https://github.com/AnmolMajithia/CollegeManagementSystem-JDBC)
-[![MLUdemy Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=Machine-Learning-Udemy)](https://github.com/AnmolMajithia/Machine-Learning-Udemy)
 
 ### 🔭 Stats
 
