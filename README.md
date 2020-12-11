@@ -53,7 +53,7 @@
 
 ### 📌 Highlighted Repos
 
-[![HomeAutomationAndroid Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=HomeAutomationAndroid&theme=dark)](https://github.com/AnmolMajithia/HomeAutomationAndroid)
+[![HomeAutomationAndroid Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=HomeAutomationAndroid&theme=dark&card_width=0)](https://github.com/AnmolMajithia/HomeAutomationAndroid)
 [![HWRecognizer Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=Handwriting-Recognition)](https://github.com/AnmolMajithia/Handwriting-Recognition)
 [![NASA SpaceApps 2020 Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=LegendBois&repo=NASA-Space-Apps-Spot-The-Fire-v3.0)](https://github.com/LegendBois/NASA-Space-Apps-Spot-The-Fire-v3.0)
 [![FaceRecognition Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=FaceRecognition-In-Cpp)](https://github.com/AnmolMajithia/FaceRecognition-In-Cpp)
