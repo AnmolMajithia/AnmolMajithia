@@ -3,9 +3,9 @@
 ## I'm a Coder (I know, big shocker)! 🤯
 
 - 🧑🏻‍💻 I’m currently working on a Android based Handwriting Recognizer!
-- 🌱 I’m currently learning everything 🤪
-- 🧠 I’m looking to gain more knowledge in my domain
-- 🥅 2020 Goals: Make more commits (Welp Corona!)
+- 🌱 Currently learning everything 🤪
+- 🧠 Looking to gain more knowledge in my domain
+- 🥅 2021 Goals: Make more commits
 - ⚡ Fun fact: I love to distro hop and play games/piano
 
 ### Spotify Playing 🎧
