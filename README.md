@@ -53,10 +53,10 @@
 
 ### 📌 Highlighted Repos
 
-<div class="separator" style="clear: both; text-align: center;"> <a href="https://github.com/AnmolMajithia/HomeAutomationAndroid"><img alt="HomeAutomationAndroid Card" src="https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=HomeAutomationAndroid&bg_color=0,7300ff,b00000&title_color=fff&text_color=fff&hide_border=true"/></a></div>
-<div class="separator" style="clear: both; text-align: center;"> <a href="https://github.com/AnmolMajithia/Handwriting-Recognition"><img alt="HWRecognizer Card" src="https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=Handwriting-Recognition&hide_border=true&bg_color=0,7300ff,b00000&title_color=fff&text_color=fff&hide_border=true"/></a></div>
-<div class="separator" style="clear: both; text-align: center;"> <a href="https://github.com/LegendBois/NASA-Space-Apps-Spot-The-Fire-v3.0"><img alt="NASA SpaceApps 2020 Card" src="https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=LegendBois&repo=NASA-Space-Apps-Spot-The-Fire-v3.0&hide_border=true&bg_color=0,7300ff,b00000&title_color=fff&text_color=fff&hide_border=true"/></a></div>
-<div class="separator" style="clear: both; text-align: center;"> <a href="https://github.com/AnmolMajithia/FaceRecognition-In-Cpp"><img alt="FaceRecognition Card" src="https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=FaceRecognition-In-Cpp&hide_border=true&bg_color=0,7300ff,b00000&title_color=fff&text_color=fff&hide_border=true"/></a></div>
+<a href="https://github.com/AnmolMajithia/HomeAutomationAndroid"><img alt="HomeAutomationAndroid Card" src="https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=HomeAutomationAndroid&bg_color=0,7300ff,b00000&title_color=fff&text_color=fff&hide_border=true"/></a>
+<a href="https://github.com/AnmolMajithia/Handwriting-Recognition"><img alt="HWRecognizer Card" src="https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=Handwriting-Recognition&hide_border=true&bg_color=0,7300ff,b00000&title_color=fff&text_color=fff&hide_border=true"/></a>
+<a href="https://github.com/LegendBois/NASA-Space-Apps-Spot-The-Fire-v3.0"><img alt="NASA SpaceApps 2020 Card" src="https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=LegendBois&repo=NASA-Space-Apps-Spot-The-Fire-v3.0&hide_border=true&bg_color=0,7300ff,b00000&title_color=fff&text_color=fff&hide_border=true"/></a>
+<a href="https://github.com/AnmolMajithia/FaceRecognition-In-Cpp"><img alt="FaceRecognition Card" src="https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=FaceRecognition-In-Cpp&hide_border=true&bg_color=0,7300ff,b00000&title_color=fff&text_color=fff&hide_border=true"/></a>
 
 
 ### 🔭 Stats
