@@ -53,16 +53,16 @@
 
 ### 📌 Highlighted Repos
 
-<a href="https://github.com/AnmolMajithia/HomeAutomationAndroid"><img alt="HomeAutomationAndroid Card" src="https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=HomeAutomationAndroid&bg_color=0,7300ff,b00000&title_color=fff&text_color=fff&hide_border=true"/></a>
-<a href="https://github.com/AnmolMajithia/Handwriting-Recognition"><img alt="HWRecognizer Card" src="https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=Handwriting-Recognition&hide_border=true&bg_color=0,7300ff,b00000&title_color=fff&text_color=fff&hide_border=true"/></a>
-<a href="https://github.com/LegendBois/NASA-Space-Apps-Spot-The-Fire-v3.0"><img alt="NASA SpaceApps 2020 Card" src="https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=LegendBois&repo=NASA-Space-Apps-Spot-The-Fire-v3.0&hide_border=true&bg_color=0,7300ff,b00000&title_color=fff&text_color=fff&hide_border=true"/></a>
-<a href="https://github.com/AnmolMajithia/FaceRecognition-In-Cpp"><img alt="FaceRecognition Card" src="https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=FaceRecognition-In-Cpp&hide_border=true&bg_color=0,7300ff,b00000&title_color=fff&text_color=fff&hide_border=true"/></a>
+<a href="https://github.com/AnmolMajithia/HomeAutomationAndroid"><img alt="HomeAutomationAndroid Card" src="https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=HomeAutomationAndroid&theme=github_dark&hide_border=true"/></a>
+<a href="https://github.com/AnmolMajithia/Handwriting-Recognition"><img alt="HWRecognizer Card" src="https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=Handwriting-Recognition&hide_border=true&theme=github_dark&hide_border=true"/></a>
+<a href="https://github.com/LegendBois/NASA-Space-Apps-Spot-The-Fire-v3.0"><img alt="NASA SpaceApps 2020 Card" src="https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=LegendBois&repo=NASA-Space-Apps-Spot-The-Fire-v3.0&hide_border=true&theme=github_dark&hide_border=true"/></a>
+<a href="https://github.com/AnmolMajithia/FaceRecognition-In-Cpp"><img alt="FaceRecognition Card" src="https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=FaceRecognition-In-Cpp&hide_border=true&theme=github_dark&hide_border=true"/></a>
 
 
 ### 🔭 Stats
 
-<img align="left" alt="Anmol Majithia's Github Stats" src="https://github-readme-stats.anmolmajithia.vercel.app/api?username=AnmolMajithia&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&bg_color=0,7300ff,b00000&title_color=fff&text_color=fff" />
-<img align="left" alt="Anmol Majithia's Language Stats" src="https://github-readme-stats.anmolmajithia.vercel.app/api/top-langs/?username=AnmolMajithia&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&bg_color=0,7300ff,b00000&title_color=fff&text_color=fff" />
+<img align="left" alt="Anmol Majithia's Github Stats" src="https://github-readme-stats.anmolmajithia.vercel.app/api?username=AnmolMajithia&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&theme=github_dark" />
+<img align="left" alt="Anmol Majithia's Language Stats" src="https://github-readme-stats.anmolmajithia.vercel.app/api/top-langs/?username=AnmolMajithia&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&theme=github_dark" />
 
 [twitter]: https://twitter.com/Anmol_Majithia
 [youtube]: https://www.youtube.com/channel/UCUk4dH9pDV5rqKuDiCs3Z0A
