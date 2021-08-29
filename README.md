@@ -64,6 +64,8 @@
 <img align="left" alt="Anmol Majithia's Github Stats" src="https://github-readme-stats-anmolmajithia.vercel.app//api?username=AnmolMajithia&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&theme=github_dark" />
 <img align="left" alt="Anmol Majithia's Language Stats" src="https://github-readme-stats-anmolmajithia.vercel.app//api/top-langs/?username=AnmolMajithia&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&theme=github_dark&layout=compact" />
 
+###### P.S. Dark Mode is not only better for your eyes but also makes this page look prettier!
+
 [twitter]: https://twitter.com/Anmol_Majithia
 [youtube]: https://www.youtube.com/channel/UCUk4dH9pDV5rqKuDiCs3Z0A
 [instagram]: https://instagram.com/aaaanmol
