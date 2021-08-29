@@ -53,15 +53,15 @@
 
 ### 📌 Highlighted Repos
 
-[![HomeAutomationAndroid Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=HomeAutomationAndroid&border_color=000&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/AnmolMajithia/HomeAutomationAndroid)
-[![HWRecognizer Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=Handwriting-Recognition&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/AnmolMajithia/Handwriting-Recognition)
-[![NASA SpaceApps 2020 Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=LegendBois&repo=NASA-Space-Apps-Spot-The-Fire-v3.0&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/LegendBois/NASA-Space-Apps-Spot-The-Fire-v3.0)
-[![FaceRecognition Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=FaceRecognition-In-Cpp&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/AnmolMajithia/FaceRecognition-In-Cpp)
+[![HomeAutomationAndroid Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=HomeAutomationAndroid&bg_color=45,1a6bff,ff1010&title_color=fff&text_color=fff)](https://github.com/AnmolMajithia/HomeAutomationAndroid)
+[![HWRecognizer Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=Handwriting-Recognition&hide_border=true&bg_color=45,1a6bff,ff1010&title_color=fff&text_color=fff)](https://github.com/AnmolMajithia/Handwriting-Recognition)
+[![NASA SpaceApps 2020 Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=LegendBois&repo=NASA-Space-Apps-Spot-The-Fire-v3.0&hide_border=true&bg_color=45,1a6bff,ff1010&title_color=fff&text_color=fff)](https://github.com/LegendBois/NASA-Space-Apps-Spot-The-Fire-v3.0)
+[![FaceRecognition Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=FaceRecognition-In-Cpp&hide_border=true&bg_color=45,1a6bff,ff1010&title_color=fff&text_color=fff)](https://github.com/AnmolMajithia/FaceRecognition-In-Cpp)
 
 ### 🔭 Stats
 
-<img align="left" alt="Anmol Majithia's Github Stats" src="https://github-readme-stats.anmolmajithia.vercel.app/api?username=AnmolMajithia&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-
+<img align="left" alt="Anmol Majithia's Github Stats" src="https://github-readme-stats.anmolmajithia.vercel.app/api?username=AnmolMajithia&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&bg_color=45,1a6bff,ff1010&title_color=fff&text_color=fff" />
+<img align="left" alt="Anmol Majithia's Language Stats" src="https://github-readme-stats.anmolmajithia.vercel.app/api/top-langs/?username=AnmolMajithia&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&bg_color=45,1a6bff,ff1010&title_color=fff&text_color=fff" />
 [twitter]: https://twitter.com/Anmol_Majithia
 [youtube]: https://www.youtube.com/channel/UCUk4dH9pDV5rqKuDiCs3Z0A
 [instagram]: https://instagram.com/aaaanmol
