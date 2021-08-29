@@ -58,15 +58,16 @@
 <a href="https://github.com/LegendBois/NASA-Space-Apps-Spot-The-Fire-v3.0"><img alt="NASA SpaceApps 2020 Card" src="https://github-readme-stats-anmolmajithia.vercel.app//api/pin/?username=LegendBois&repo=NASA-Space-Apps-Spot-The-Fire-v3.0&hide_border=true&theme=github_dark&hide_border=true"/></a>
 <a href="https://github.com/AnmolMajithia/FaceRecognition-In-Cpp"><img alt="FaceRecognition Card" src="https://github-readme-stats-anmolmajithia.vercel.app//api/pin/?username=AnmolMajithia&repo=FaceRecognition-In-Cpp&hide_border=true&theme=github_dark&hide_border=true"/></a>
 
-
 ### 🔭 Stats
 
-<img align="left" alt="Anmol Majithia's Github Stats" src="https://github-readme-stats-anmolmajithia.vercel.app//api?username=AnmolMajithia&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&theme=github_dark" />
-<img align="left" alt="Anmol Majithia's Language Stats" src="https://github-readme-stats-anmolmajithia.vercel.app//api/top-langs/?username=AnmolMajithia&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&theme=github_dark&layout=compact" />
+<img align="left" alt="Anmol Majithia's Language Stats" src="https://github-readme-stats-anmolmajithia.vercel.app//api/top-langs/?username=AnmolMajithia&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&theme=github_dark&langs_count=3" />
+<img align="right" alt="Anmol Majithia's Github Stats" src="https://github-readme-stats-anmolmajithia.vercel.app//api?username=AnmolMajithia&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&theme=github_dark" />
 
-###### P.S. Dark Mode is not only better for your eyes but also makes this page look prettier!
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <img align="left" alt="Anmol Majithia's Trophies" src="https://github-profile-trophy.vercel.app/?username=AnmolMajithia&theme=darkhub&row=1&column=3&no-frame=true" />
+
+<br/><br/><br/><br/>
+<div><b><i><small><sub>P.S. Dark Mode is not only better for your eyes but also makes this page look prettier!</sub></small></i></b></div>
 
 
 [twitter]: https://twitter.com/Anmol_Majithia
