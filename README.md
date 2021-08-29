@@ -53,10 +53,10 @@
 
 ### 📌 Highlighted Repos
 
-[![HomeAutomationAndroid Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=HomeAutomationAndroid&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/AnmolMajithia/HomeAutomationAndroid)
-[![HWRecognizer Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=Handwriting-Recognition&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/AnmolMajithia/Handwriting-Recognition)
-[![NASA SpaceApps 2020 Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=LegendBois&repo=NASA-Space-Apps-Spot-The-Fire-v3.0&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/LegendBois/NASA-Space-Apps-Spot-The-Fire-v3.0)
-[![FaceRecognition Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=FaceRecognition-In-Cpp&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/AnmolMajithia/FaceRecognition-In-Cpp)
+[![HomeAutomationAndroid Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=HomeAutomationAndroid&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/AnmolMajithia/HomeAutomationAndroid)
+[![HWRecognizer Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=Handwriting-Recognition&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/AnmolMajithia/Handwriting-Recognition)
+[![NASA SpaceApps 2020 Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=LegendBois&repo=NASA-Space-Apps-Spot-The-Fire-v3.0&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/LegendBois/NASA-Space-Apps-Spot-The-Fire-v3.0)
+[![FaceRecognition Card](https://github-readme-stats.anmolmajithia.vercel.app/api/pin/?username=AnmolMajithia&repo=FaceRecognition-In-Cpp&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/AnmolMajithia/FaceRecognition-In-Cpp)
 
 ### 🔭 Stats
 
