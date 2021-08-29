@@ -62,6 +62,7 @@
 
 <img align="left" alt="Anmol Majithia's Github Stats" src="https://github-readme-stats.anmolmajithia.vercel.app/api?username=AnmolMajithia&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&bg_color=0,7300ff,b00000&title_color=fff&text_color=fff" />
 <img align="left" alt="Anmol Majithia's Language Stats" src="https://github-readme-stats.anmolmajithia.vercel.app/api/top-langs/?username=AnmolMajithia&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&bg_color=0,7300ff,b00000&title_color=fff&text_color=fff" />
+
 [twitter]: https://twitter.com/Anmol_Majithia
 [youtube]: https://www.youtube.com/channel/UCUk4dH9pDV5rqKuDiCs3Z0A
 [instagram]: https://instagram.com/aaaanmol
