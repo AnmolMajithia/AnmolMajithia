@@ -66,6 +66,9 @@
 
 ###### P.S. Dark Mode is not only better for your eyes but also makes this page look prettier!
 
+<img align="left" alt="Anmol Majithia's Trophies" src="https://github-profile-trophy.vercel.app/?username=AnmolMajithia&theme=darkhub&row=1&column=3&no-frame=true" />
+
+
 [twitter]: https://twitter.com/Anmol_Majithia
 [youtube]: https://www.youtube.com/channel/UCUk4dH9pDV5rqKuDiCs3Z0A
 [instagram]: https://instagram.com/aaaanmol
