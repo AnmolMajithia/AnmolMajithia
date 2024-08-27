@@ -2,12 +2,6 @@
 
 ## I'm a Coder (I know, big shocker)! 🤯
 
-- 🧑🏻‍💻 I’m currently working on a Android based Handwriting Recognizer!
-- 🌱 Currently learning everything 🤪
-- 🧠 Looking to gain more knowledge in my domain
-- 🥅 2021 Goals: Make more commits
-- ⚡ Fun fact: I love to distro hop and play games/piano
-
 ### Spotify Playing 🎧
 
 [![Spotify](https://spotify-now-playing.anmolmajithia.vercel.app/api/spotify)](https://open.spotify.com/user/anmol_majithia)
